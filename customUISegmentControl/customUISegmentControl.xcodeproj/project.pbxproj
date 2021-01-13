@@ -13,6 +13,7 @@
 		3A811DCF25AF829600ED0C64 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A811DCD25AF829600ED0C64 /* Main.storyboard */; };
 		3A811DD125AF829800ED0C64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A811DD025AF829800ED0C64 /* Assets.xcassets */; };
 		3A811DD425AF829800ED0C64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A811DD225AF829800ED0C64 /* LaunchScreen.storyboard */; };
+		3A811DDD25AF844A00ED0C64 /* CustomSegment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A811DDC25AF844A00ED0C64 /* CustomSegment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3A811DD025AF829800ED0C64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A811DD325AF829800ED0C64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A811DD525AF829800ED0C64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A811DDC25AF844A00ED0C64 /* CustomSegment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSegment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3A811DC725AF829600ED0C64 /* AppDelegate.swift */,
 				3A811DC925AF829600ED0C64 /* SceneDelegate.swift */,
 				3A811DCB25AF829600ED0C64 /* ViewController.swift */,
+				3A811DDC25AF844A00ED0C64 /* CustomSegment.swift */,
 				3A811DCD25AF829600ED0C64 /* Main.storyboard */,
 				3A811DD025AF829800ED0C64 /* Assets.xcassets */,
 				3A811DD225AF829800ED0C64 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A811DDD25AF844A00ED0C64 /* CustomSegment.swift in Sources */,
 				3A811DCC25AF829600ED0C64 /* ViewController.swift in Sources */,
 				3A811DC825AF829600ED0C64 /* AppDelegate.swift in Sources */,
 				3A811DCA25AF829600ED0C64 /* SceneDelegate.swift in Sources */,
